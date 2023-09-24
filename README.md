@@ -1,5 +1,5 @@
 # Responsive Travel Website 🌊
-###  Responsive Travel Website 🌊
+### Responsive Travel Website 🌊
 The Beaches Travel Website aims to be a comprehensive resource for discovering and learning about stunning beaches worldwide. Users can explore a wide range of beaches, read about their unique features, view photos, and even plan their trips with the help of travel tips and recommendations.
 
 Usage
